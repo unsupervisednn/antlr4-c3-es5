@@ -1,6 +1,6 @@
 {
   "name": "antlr4-c3",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "A code completion core implmentation for ANTLR4 based parsers",
   "main": "out/index.js",
   "typings": "out/index.d.ts",
@@ -21,7 +21,7 @@
     "parser"
   ],
   "dependencies": {
-    "antlr4ts": "^0.5.0-alpha.3"
+    "antlr4ts": "github:unsupervisednn/antlr4ts-es5"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
